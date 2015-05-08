@@ -1,0 +1,2 @@
+kafka-python==0.9.3
+mysql-replication==0.5
